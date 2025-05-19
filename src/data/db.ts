@@ -38,8 +38,8 @@ export const menuItems : MenuItem[] = [
     },
     {
       "id": 8,
-      "name": "Jugo de Naranja",
-      "price": 15
+      "name": "Jugo de Uva",
+      "price": 18
     },
     {
       "id": 9,
